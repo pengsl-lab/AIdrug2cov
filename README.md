@@ -9,10 +9,12 @@ A network representation learning-based methodology, termed AIdrug2cov, to disco
 * CMapscore: Connectivity map score based on up- and down-regulated genes of SARS patients for 2439 drug compounds.
 
 # Requirements
-* Tensorflow (tested on version 1.0.1 and version 1.2.0)
+AIdrug2cov is tested to work under:
+* Python 3.6  
+* Tensorflow 1.1.4
 * tflearn
-* numpy (tested on version 1.13.3 and version 1.14.0)
-* sklearn (tested on version 0.18.1 and version 0.19.0)
+* numpy 1.14.0
+* sklearn 0.19.0
 
 
 # Contacts

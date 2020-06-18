@@ -2,11 +2,11 @@
 A network representation learning-based methodology, termed AIdrug2cov, to discover drug mechanism and anti-inflammatory response for patients with COVID-19
 
 # Data description
-Candidate targets of COVID-19: 45 targets of COVID-19 predicted AIdrug2cov.
-Candidate drugs of COVID-19: 25 agents of COVID-19 predicted AIdrug2cov.
-GO_Molecular_Function: GO enrichment analyses based on Enrichr web Server (http://amp.pharm.mssm.edu/Enrichr/) for 45 potential targets of COVID-19.
-KEGG_2019_Human: KEGG GO enrichment analyses based on Enrichr web Server (http://amp.pharm.mssm.edu/Enrichr/) for 45 potential targets of COVID-19.
-CMapscore: Connectivity map score based on up- and down-regulated genes of SARS patients for 2439 drug compounds.
+* Candidate targets of COVID-19: 45 targets of COVID-19 predicted AIdrug2cov.
+* Candidate drugs of COVID-19: 25 agents of COVID-19 predicted AIdrug2cov.
+* GO_Molecular_Function: GO enrichment analyses based on Enrichr web Server (http://amp.pharm.mssm.edu/Enrichr/) for 45 potential targets of COVID-19.
+* KEGG_2019_Human: KEGG enrichment analyses based on Enrichr web Server (http://amp.pharm.mssm.edu/Enrichr/) for 45 potential targets of COVID-19.
+* CMapscore: Connectivity map score based on up- and down-regulated genes of SARS patients for 2439 drug compounds.
 
 # Requirements
 * Tensorflow (tested on version 1.0.1 and version 1.2.0)
